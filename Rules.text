@@ -1,0 +1,4 @@
+Rule 1 => Worst Case ✅
+Rule 2 => Remove Constants ✅
+Rule 3 => Different terms for inputs { if two input then O(a+b) if nested then O(n^2)}
+Rule 4 => Drop Non Dominants
